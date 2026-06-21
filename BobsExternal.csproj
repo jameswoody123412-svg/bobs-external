@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <RootNamespace>BobsExternal</RootNamespace>
+    <AssemblyName>BobsExternal</AssemblyName>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
